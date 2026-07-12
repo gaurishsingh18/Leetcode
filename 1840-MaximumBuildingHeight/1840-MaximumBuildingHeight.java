@@ -1,4 +1,4 @@
-// Last updated: 05/07/2026, 13:05:27
+// Last updated: 12/07/2026, 15:30:39
 1class Solution {
 2    public int maxBuilding(int n, int[][] restrictions) {
 3
