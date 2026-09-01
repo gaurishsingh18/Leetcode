@@ -1,4 +1,4 @@
-// Last updated: 01/09/2026, 19:46:24
+// Last updated: 01/09/2026, 19:47:59
 1class Solution {
 2    public String lexGreaterPermutation(String s, String target) {
 3        int[] freq = new int[26];
