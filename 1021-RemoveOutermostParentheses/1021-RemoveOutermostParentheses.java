@@ -1,4 +1,4 @@
-// Last updated: 06/11/2026, 19:29:18
+// Last updated: 06/11/2026, 19:29:53
 1class Solution {
 2    public String removeOuterParentheses(String s) {
 3        StringBuilder result = new StringBuilder();
