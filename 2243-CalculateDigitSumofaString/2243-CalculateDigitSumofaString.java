@@ -1,4 +1,4 @@
-// Last updated: 17/11/2026, 14:34:44
+// Last updated: 17/11/2026, 14:34:53
 1class Solution {
 2    public String digitSum(String s, int k) {
 3        while (s.length() > k) {
